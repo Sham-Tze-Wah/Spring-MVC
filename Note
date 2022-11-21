@@ -1,0 +1,6 @@
+DispatcherServlet = Front Controller (to accept/reject the incoming request) 
+Delegate request = accpet/reject request
+annotations (@Controller) needs to be specify for all the controllers
+
+All the controllers will be specify in a configuration file, 
+so that dispatcherservlet can identify the location of the controllers.
